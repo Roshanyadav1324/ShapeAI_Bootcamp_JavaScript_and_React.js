@@ -1,5 +1,4 @@
 # ShapeAI_Bootcamp_javascript_and_React.js
-# SHAPEAI Javascript and Reactjs BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
